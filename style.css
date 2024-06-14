@@ -1,0 +1,177 @@
+.simi {
+    background-color:#ffffff;
+    width: 250px;
+    height: 300px;
+}
+.post-1 {
+    width: 100%;
+    height: 50%;
+    position: absolute;
+    top: 50%;
+    
+}
+.post-2{
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    left: 17%;
+    top: 50%;
+    border-radius: 50%;
+}
+.post-3 {
+    width: 100px;
+    height: 100px;
+    border: none;
+    border-radius: 100%;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+
+}
+.post-4 {
+    width: 100px;
+    height: 100px;
+    border: none;
+    border-radius: 100%;
+    position: absolute;
+    top: 10%;
+    right: 10%;
+
+}
+.P-1 {
+    color: #FE0000;
+    font-size: 15PX;
+    position: absolute;
+    top:15% ;
+    align-items: center;
+    font-weight: 900;
+    left: 36%;
+
+
+}
+.P-3 {
+ color: green;
+ font-size: 10PX;
+ font-weight: 900;
+ position: absolute;
+ top: 18%;
+ left:35% ;
+
+}
+.P-2 {
+    color: black;
+    font-size: 8px;
+    font-weight: 900;
+    top: 20%;
+    left: 36%;
+    position: absolute;
+}
+.ARROW {
+    color: #FE0000;
+    position: absolute;
+    top: 3%;
+    left: -90%;
+    border: dotted;
+    font-size: 25PX;
+}
+
+.P-4 {
+    color: #FE0000;
+    font-weight: 900;
+    font-size: 30PX;
+    top: 25%;
+    position: absolute;
+    display: flex;
+    left: 36%;
+    letter-spacing: 2px;
+}
+.P-5 {
+    position: absolute;
+    top: 28%;
+    color: black;
+    font-size: 35PX;
+    font-weight: 900;
+    left: 43%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    letter-spacing: 3px;
+}
+.P-6 {
+    position: absolute;
+    top:33% ;
+    left:42%;
+    font-weight: 900;
+    color: green;
+    font-size: 35PX;
+    letter-spacing: 3px;
+}
+.P-7 {
+    position: absolute;
+    top: 38%;
+    font-weight: 900;
+    color: greenyellow;
+    font-size: 35PX;
+    left: 34%;
+
+}
+.P-8 {
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    font-size: 30PX;
+    color: greenyellow;
+    font-weight: 900;
+    letter-spacing: 2PX;
+}
+.h-1 {
+    position: absolute;
+    top: 76%;
+    left: 43%;
+    letter-spacing: 5px;
+    color: aliceblue;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.h-2 {
+    position: absolute;
+    top: 78%;
+    left: 23%;
+    font-size: 40px;
+    font-weight: 900;
+    letter-spacing: 3PX;
+}
+.P-10 {
+    position: absolute;
+    top: 64%;
+    font-size: 15PX;
+    right: 0%;
+    font-weight: 900;
+
+
+
+}
+.P-9{
+    position: absolute;
+    top: 60%;
+    font-size: 15PX;
+    font-weight: 900;
+    right: 19%;
+}
+.P-12 {
+    position: absolute;
+    top: 68%;
+    font-size: 15PX;
+    right: 3%;
+    font-weight: 900;
+
+
+}
+.H-3 {
+    top:89% ;
+    position: absolute;
+    font-size: 20px;
+    left: 22%;
+    background-color: #ffffff;
+    border-radius: 10px;
+
+}
